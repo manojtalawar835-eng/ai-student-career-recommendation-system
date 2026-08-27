@@ -1,0 +1,6 @@
+{
+  "name": "AI Student Career & Skill Recommendation System",
+  "description": "An intelligent student career guidance platform featuring hybrid skill-matching algorithms, NLP resume parsing, interactive aptitude tests, skill-gap roadmaps, and AI career mentoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
